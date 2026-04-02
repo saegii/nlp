@@ -2,4 +2,8 @@
 
 -----------------   
 
-📟 Repository for Exercises
+📟 Repository for Exercises and Projects
+
+### Projects
+- Project 1: Word Embeddings/Recurrent Neural Networks 📽️
+- Project 2
