@@ -1,6 +1,8 @@
 # Project Structure
 exercises/
 projects/**/cc.en.300*
+projects/**/*.pt
+projects/**/wandb/
 
 # JetBrains
 .idea/
