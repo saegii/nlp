@@ -6,4 +6,4 @@
 
 ### Projects
 - Project 1: Word Embeddings/Recurrent Neural Networks 📽️
-- Project 2
+- Project 2: Transformers 🤖
